@@ -21,3 +21,10 @@
 - Equality and Hashing
 - Custom Operators
 - Asynchronous Programming
+
+# Next?
+
+- Swift UI, State, Pattern, Navigation
+- Learn to use RESTfull API using swift
+- Integrate RESTfull API into Swift UI
+- Local data storage using Data Store
